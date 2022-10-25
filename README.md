@@ -10,5 +10,5 @@ Get the features of tools you are already familiar with, but open source and for
 
 ## Status
 
-:construction: **In Development** :construction:  
-_ is currently *extremely early* in the development cycle. This app is not even close to functional yet but is being actively developed. Please "watch" the project and leave a star to get all updates.
+:construction:**In Development**:construction:  
+_ is currently *extremely early* in the development cycle. This app is not even close to functional yet but is being actively developed. Please "watch" the project and leave a star to get all updates!
